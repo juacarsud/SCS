@@ -1,0 +1,325 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{D7825EFB-3CC9-46E7-BC4C-2C4C2837349F}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>SistemaControlHorario</RootNamespace>
+    <AssemblyName>SistemaControlHorario</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <SccProjectName>SAK</SccProjectName>
+    <SccLocalPath>SAK</SccLocalPath>
+    <SccAuxPath>SAK</SccAuxPath>
+    <SccProvider>SAK</SccProvider>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="DevComponents.DotNetBar2, Version=11.3.0.0, Culture=neutral, PublicKeyToken=c39c3242a43eee2b, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\Program Files (x86)\DotNetBar for Windows Forms\DevComponents.DotNetBar2.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91" />
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="dtsCostoCursos.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dtsCostoCursos.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="frmDisponibilidadHorario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDisponibilidadHorario.designer.cs">
+      <DependentUpon>frmDisponibilidadHorario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmInformeHorario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmInformeHorario.Designer.cs">
+      <DependentUpon>frmInformeHorario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmMantenimientoSemestre.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMantenimientoSemestre.Designer.cs">
+      <DependentUpon>frmMantenimientoSemestre.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmRptEstadoCancelacion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmRptEstadoCancelacion.Designer.cs">
+      <DependentUpon>frmRptEstadoCancelacion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmInicioSesion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmInicioSesion.designer.cs">
+      <DependentUpon>frmInicioSesion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmMantenimientoAlumnos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMantenimientoAlumnos.Designer.cs">
+      <DependentUpon>frmMantenimientoAlumnos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmMantenimientoCursos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMantenimientoCursos.Designer.cs">
+      <DependentUpon>frmMantenimientoCursos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmMantenimientoDocente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMantenimientoDocente.Designer.cs">
+      <DependentUpon>frmMantenimientoDocente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmMantenimientoInscripcion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMantenimientoInscripcion.designer.cs">
+      <DependentUpon>frmMantenimientoInscripcion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmMantenimietoLaboratorio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMantenimietoLaboratorio.Designer.cs">
+      <DependentUpon>frmMantenimietoLaboratorio.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmMenuPrincipal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMenuPrincipal.Designer.cs">
+      <DependentUpon>frmMenuPrincipal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmModificarAsistencia.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmModificarAsistencia.Designer.cs">
+      <DependentUpon>frmModificarAsistencia.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmModificarContraseña.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmModificarContraseña.Designer.cs">
+      <DependentUpon>frmModificarContraseña.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmObservacion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmObservacion.Designer.cs">
+      <DependentUpon>frmObservacion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmPreguntaReporte.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPreguntaReporte.Designer.cs">
+      <DependentUpon>frmPreguntaReporte.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmRegistroAsistencia.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmRegistroAsistencia.designer.cs">
+      <DependentUpon>frmRegistroAsistencia.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmRegistroHorario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmRegistroHorario.Designer.cs">
+      <DependentUpon>frmRegistroHorario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmRegistroPagos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmRegistroPagos.Designer.cs">
+      <DependentUpon>frmRegistroPagos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmRptAlumnosInscritos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmRptAlumnosInscritos.Designer.cs">
+      <DependentUpon>frmRptAlumnosInscritos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmRptListadoCostoCursos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmRptListadoCostoCursos.Designer.cs">
+      <DependentUpon>frmRptListadoCostoCursos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SisteControlHorariosDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>SisteControlHorariosDataSet.xsd</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="frmDisponibilidadHorario.resx">
+      <DependentUpon>frmDisponibilidadHorario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmInformeHorario.resx">
+      <DependentUpon>frmInformeHorario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMantenimientoSemestre.resx">
+      <DependentUpon>frmMantenimientoSemestre.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmRptEstadoCancelacion.resx">
+      <DependentUpon>frmRptEstadoCancelacion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmInicioSesion.resx">
+      <DependentUpon>frmInicioSesion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMantenimientoAlumnos.resx">
+      <DependentUpon>frmMantenimientoAlumnos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMantenimientoCursos.resx">
+      <DependentUpon>frmMantenimientoCursos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMantenimientoDocente.resx">
+      <DependentUpon>frmMantenimientoDocente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMantenimientoInscripcion.resx">
+      <DependentUpon>frmMantenimientoInscripcion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMantenimietoLaboratorio.resx">
+      <DependentUpon>frmMantenimietoLaboratorio.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMenuPrincipal.resx">
+      <DependentUpon>frmMenuPrincipal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmModificarAsistencia.resx">
+      <DependentUpon>frmModificarAsistencia.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmModificarContraseña.resx">
+      <DependentUpon>frmModificarContraseña.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmObservacion.resx">
+      <DependentUpon>frmObservacion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPreguntaReporte.resx">
+      <DependentUpon>frmPreguntaReporte.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmRegistroAsistencia.resx">
+      <DependentUpon>frmRegistroAsistencia.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmRegistroHorario.resx">
+      <DependentUpon>frmRegistroHorario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmRegistroPagos.resx">
+      <DependentUpon>frmRegistroPagos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmRptAlumnosInscritos.resx">
+      <DependentUpon>frmRptAlumnosInscritos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmRptListadoCostoCursos.resx">
+      <DependentUpon>frmRptListadoCostoCursos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="rptAlumnosInscritos.rdlc" />
+    <EmbeddedResource Include="rptEstadoCancelacion.rdlc" />
+    <EmbeddedResource Include="rptListadoCostoCursos.rdlc" />
+    <None Include="dtsCostoCursos.xsc">
+      <DependentUpon>dtsCostoCursos.xsd</DependentUpon>
+    </None>
+    <None Include="dtsCostoCursos.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dtsCostoCursos.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="dtsCostoCursos.xss">
+      <DependentUpon>dtsCostoCursos.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <None Include="SisteControlHorariosDataSet.xsc">
+      <DependentUpon>SisteControlHorariosDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="SisteControlHorariosDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>SisteControlHorariosDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="SisteControlHorariosDataSet.xss">
+      <DependentUpon>SisteControlHorariosDataSet.xsd</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config">
+      <SubType>Designer</SubType>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\SistemaControlHorario.Datos\SistemaControlHorario.Datos.csproj">
+      <Project>{3edbf31b-7bf1-4a84-a5ee-b154f5afa443}</Project>
+      <Name>SistemaControlHorario.Datos</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SistemaControlHorario.Entidades\SistemaControlHorario.Entidades.csproj">
+      <Project>{a60f3e49-c2ba-46b3-a0b4-6c6c7b28504d}</Project>
+      <Name>SistemaControlHorario.Entidades</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SistemaControlHorario.Negocio\SistemaControlHorario.Negocio.csproj">
+      <Project>{3cefc7db-9d81-44f6-900f-a2b71f64ab01}</Project>
+      <Name>SistemaControlHorario.Negocio</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\LLAVE.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

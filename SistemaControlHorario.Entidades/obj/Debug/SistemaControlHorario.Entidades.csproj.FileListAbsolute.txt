@@ -1,0 +1,12 @@
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\SistemaControlHorario\SistemaControlHorario.Entidades\bin\Debug\SistemaControlHorario.Entidades.dll
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\SistemaControlHorario\SistemaControlHorario.Entidades\bin\Debug\SistemaControlHorario.Entidades.pdb
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\SistemaControlHorario\SistemaControlHorario.Entidades\obj\Debug\SistemaControlHorario.Entidades.dll
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\SistemaControlHorario\SistemaControlHorario.Entidades\obj\Debug\SistemaControlHorario.Entidades.pdb
+D:\CURSOS\VERANO 2015-0\TRABAJO SOFTWARE\PROYECTO FINAL\SistemaControlHorario\SistemaControlHorario.Entidades\bin\Debug\SistemaControlHorario.Entidades.dll
+D:\CURSOS\VERANO 2015-0\TRABAJO SOFTWARE\PROYECTO FINAL\SistemaControlHorario\SistemaControlHorario.Entidades\bin\Debug\SistemaControlHorario.Entidades.pdb
+D:\CURSOS\VERANO 2015-0\TRABAJO SOFTWARE\PROYECTO FINAL\SistemaControlHorario\SistemaControlHorario.Entidades\obj\Debug\SistemaControlHorario.Entidades.dll
+D:\CURSOS\VERANO 2015-0\TRABAJO SOFTWARE\PROYECTO FINAL\SistemaControlHorario\SistemaControlHorario.Entidades\obj\Debug\SistemaControlHorario.Entidades.pdb
+D:\SistemaControlHorario\SistemaControlHorario.Entidades\bin\Debug\SistemaControlHorario.Entidades.dll
+D:\SistemaControlHorario\SistemaControlHorario.Entidades\bin\Debug\SistemaControlHorario.Entidades.pdb
+D:\SistemaControlHorario\SistemaControlHorario.Entidades\obj\Debug\SistemaControlHorario.Entidades.dll
+D:\SistemaControlHorario\SistemaControlHorario.Entidades\obj\Debug\SistemaControlHorario.Entidades.pdb

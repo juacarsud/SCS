@@ -1,0 +1,21 @@
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\SistemaControlHorario\SistemaControlHorario.Datos\bin\Debug\SistemaControlHorario.Datos.dll
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\SistemaControlHorario\SistemaControlHorario.Datos\bin\Debug\SistemaControlHorario.Datos.pdb
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\SistemaControlHorario\SistemaControlHorario.Datos\bin\Debug\SistemaControlHorario.Entidades.dll
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\SistemaControlHorario\SistemaControlHorario.Datos\bin\Debug\SistemaControlHorario.Entidades.pdb
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\SistemaControlHorario\SistemaControlHorario.Datos\obj\Debug\SistemaControlHorario.Datos.csprojResolveAssemblyReference.cache
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\SistemaControlHorario\SistemaControlHorario.Datos\obj\Debug\SistemaControlHorario.Datos.dll
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\SistemaControlHorario\SistemaControlHorario.Datos\obj\Debug\SistemaControlHorario.Datos.pdb
+D:\CURSOS\VERANO 2015-0\TRABAJO SOFTWARE\PROYECTO FINAL\SistemaControlHorario\SistemaControlHorario.Datos\bin\Debug\SistemaControlHorario.Datos.dll
+D:\CURSOS\VERANO 2015-0\TRABAJO SOFTWARE\PROYECTO FINAL\SistemaControlHorario\SistemaControlHorario.Datos\bin\Debug\SistemaControlHorario.Datos.pdb
+D:\CURSOS\VERANO 2015-0\TRABAJO SOFTWARE\PROYECTO FINAL\SistemaControlHorario\SistemaControlHorario.Datos\bin\Debug\SistemaControlHorario.Entidades.dll
+D:\CURSOS\VERANO 2015-0\TRABAJO SOFTWARE\PROYECTO FINAL\SistemaControlHorario\SistemaControlHorario.Datos\bin\Debug\SistemaControlHorario.Entidades.pdb
+D:\CURSOS\VERANO 2015-0\TRABAJO SOFTWARE\PROYECTO FINAL\SistemaControlHorario\SistemaControlHorario.Datos\obj\Debug\SistemaControlHorario.Datos.csprojResolveAssemblyReference.cache
+D:\CURSOS\VERANO 2015-0\TRABAJO SOFTWARE\PROYECTO FINAL\SistemaControlHorario\SistemaControlHorario.Datos\obj\Debug\SistemaControlHorario.Datos.dll
+D:\CURSOS\VERANO 2015-0\TRABAJO SOFTWARE\PROYECTO FINAL\SistemaControlHorario\SistemaControlHorario.Datos\obj\Debug\SistemaControlHorario.Datos.pdb
+D:\SistemaControlHorario\SistemaControlHorario.Datos\bin\Debug\SistemaControlHorario.Datos.dll
+D:\SistemaControlHorario\SistemaControlHorario.Datos\bin\Debug\SistemaControlHorario.Datos.pdb
+D:\SistemaControlHorario\SistemaControlHorario.Datos\bin\Debug\SistemaControlHorario.Entidades.dll
+D:\SistemaControlHorario\SistemaControlHorario.Datos\bin\Debug\SistemaControlHorario.Entidades.pdb
+D:\SistemaControlHorario\SistemaControlHorario.Datos\obj\Debug\SistemaControlHorario.Datos.csprojResolveAssemblyReference.cache
+D:\SistemaControlHorario\SistemaControlHorario.Datos\obj\Debug\SistemaControlHorario.Datos.dll
+D:\SistemaControlHorario\SistemaControlHorario.Datos\obj\Debug\SistemaControlHorario.Datos.pdb

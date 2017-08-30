@@ -1,0 +1,47 @@
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\SistemaControlHorario - copia\SistemaControlHorario\bin\Debug\SistemaControlHorario.exe.config
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\SistemaControlHorario - copia\SistemaControlHorario\obj\Debug\SistemaControlHorario.exe
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\SistemaControlHorario - copia\SistemaControlHorario\obj\Debug\SistemaControlHorario.pdb
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\SistemaControlHorario - copia\SistemaControlHorario\bin\Debug\SistemaControlHorario.exe
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\SistemaControlHorario - copia\SistemaControlHorario\bin\Debug\SistemaControlHorario.pdb
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\SistemaControlHorario - copia\SistemaControlHorario\bin\Debug\SistemaControlHorario.Datos.dll
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\SistemaControlHorario - copia\SistemaControlHorario\bin\Debug\SistemaControlHorario.Entidades.dll
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\SistemaControlHorario - copia\SistemaControlHorario\bin\Debug\SistemaControlHorario.Negocio.dll
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\SistemaControlHorario - copia\SistemaControlHorario\bin\Debug\SistemaControlHorario.Datos.pdb
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\SistemaControlHorario - copia\SistemaControlHorario\bin\Debug\SistemaControlHorario.Entidades.pdb
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\SistemaControlHorario - copia\SistemaControlHorario\bin\Debug\SistemaControlHorario.Negocio.pdb
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\SistemaControlHorario - copia\SistemaControlHorario\obj\Debug\SistemaControlHorario.Presentacion.csprojResolveAssemblyReference.cache
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\SistemaControlHorario - copia\SistemaControlHorario\obj\Debug\SistemaControlHorario.frmDisponibilidadHorario.resources
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\SistemaControlHorario - copia\SistemaControlHorario\obj\Debug\SistemaControlHorario.frmInicioSesion.resources
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\SistemaControlHorario - copia\SistemaControlHorario\obj\Debug\SistemaControlHorario.frmMantenimientoDocente.resources
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\SistemaControlHorario - copia\SistemaControlHorario\obj\Debug\SistemaControlHorario.frmMenuPrincipal.resources
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\SistemaControlHorario - copia\SistemaControlHorario\obj\Debug\SistemaControlHorario.frmRegistroAsistencia.resources
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\SistemaControlHorario - copia\SistemaControlHorario\obj\Debug\SistemaControlHorario.Properties.Resources.resources
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\SistemaControlHorario - copia\SistemaControlHorario\obj\Debug\SistemaControlHorario.Presentacion.csproj.GenerateResource.Cache
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\SistemaControlHorario\SistemaControlHorario\obj\Debug\SistemaControlHorario.Presentacion.csprojResolveAssemblyReference.cache
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\SistemaControlHorario\SistemaControlHorario\obj\Debug\SistemaControlHorario.frmDisponibilidadHorario.resources
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\SistemaControlHorario\SistemaControlHorario\obj\Debug\SistemaControlHorario.frmInicioSesion.resources
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\SistemaControlHorario\SistemaControlHorario\obj\Debug\SistemaControlHorario.frmMantenimientoAlumnos.resources
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\SistemaControlHorario\SistemaControlHorario\obj\Debug\SistemaControlHorario.frmMantenimientoCursos.resources
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\SistemaControlHorario\SistemaControlHorario\obj\Debug\SistemaControlHorario.frmMantenimientoDocente.resources
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\SistemaControlHorario\SistemaControlHorario\obj\Debug\SistemaControlHorario.frmMantenimientoInscripcion.resources
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\SistemaControlHorario\SistemaControlHorario\obj\Debug\SistemaControlHorario.frmMantenimietoLaboratorio.resources
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\SistemaControlHorario\SistemaControlHorario\obj\Debug\SistemaControlHorario.frmMenuPrincipal.resources
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\SistemaControlHorario\SistemaControlHorario\obj\Debug\SistemaControlHorario.frmRegistroAsistencia.resources
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\SistemaControlHorario\SistemaControlHorario\obj\Debug\SistemaControlHorario.frmRegistroPagos.resources
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\SistemaControlHorario\SistemaControlHorario\obj\Debug\SistemaControlHorario.Properties.Resources.resources
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\SistemaControlHorario\SistemaControlHorario\obj\Debug\SistemaControlHorario.Presentacion.csproj.GenerateResource.Cache
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\SistemaControlHorario\SistemaControlHorario\bin\Debug\SistemaControlHorario.exe.config
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\SistemaControlHorario\SistemaControlHorario\bin\Debug\SistemaControlHorario.exe
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\SistemaControlHorario\SistemaControlHorario\bin\Debug\SistemaControlHorario.pdb
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\SistemaControlHorario\SistemaControlHorario\bin\Debug\SistemaControlHorario.Datos.dll
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\SistemaControlHorario\SistemaControlHorario\bin\Debug\SistemaControlHorario.Entidades.dll
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\SistemaControlHorario\SistemaControlHorario\bin\Debug\SistemaControlHorario.Negocio.dll
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\SistemaControlHorario\SistemaControlHorario\bin\Debug\SistemaControlHorario.Datos.pdb
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\SistemaControlHorario\SistemaControlHorario\bin\Debug\SistemaControlHorario.Entidades.pdb
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\SistemaControlHorario\SistemaControlHorario\bin\Debug\SistemaControlHorario.Negocio.pdb
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\SistemaControlHorario\SistemaControlHorario\obj\Debug\SistemaControlHorario.exe
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\SistemaControlHorario\SistemaControlHorario\obj\Debug\SistemaControlHorario.pdb
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\SistemaControlHorario\SistemaControlHorario\obj\Debug\SistemaControlHorario.frmPreguntaReporte.resources
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\SistemaControlHorario\SistemaControlHorario\obj\Debug\SistemaControlHorario.frmRptListadoCostoCursos.resources
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\SistemaControlHorario\SistemaControlHorario\obj\Debug\RdlCompile.cache
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\SistemaControlHorario\SistemaControlHorario\obj\Debug\RdlCompile.compiled

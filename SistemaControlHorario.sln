@@ -1,0 +1,56 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SistemaControlHorario", "SistemaControlHorario\SistemaControlHorario.csproj", "{D7825EFB-3CC9-46E7-BC4C-2C4C2837349F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SistemaControlHorario.Entidades", "SistemaControlHorario.Entidades\SistemaControlHorario.Entidades.csproj", "{A60F3E49-C2BA-46B3-A0B4-6C6C7B28504D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SistemaControlHorario.Datos", "SistemaControlHorario.Datos\SistemaControlHorario.Datos.csproj", "{3EDBF31B-7BF1-4A84-A5EE-B154F5AFA443}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SistemaControlHorario.Negocio", "SistemaControlHorario.Negocio\SistemaControlHorario.Negocio.csproj", "{3CEFC7DB-9D81-44F6-900F-A2B71F64AB01}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 5
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://gcastillog.visualstudio.com/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = SistemaControlHorario.Datos\\SistemaControlHorario.Datos.csproj
+		SccProjectName1 = SistemaControlHorario.Datos
+		SccLocalPath1 = SistemaControlHorario.Datos
+		SccProjectUniqueName2 = SistemaControlHorario.Entidades\\SistemaControlHorario.Entidades.csproj
+		SccProjectName2 = SistemaControlHorario.Entidades
+		SccLocalPath2 = SistemaControlHorario.Entidades
+		SccProjectUniqueName3 = SistemaControlHorario.Negocio\\SistemaControlHorario.Negocio.csproj
+		SccProjectName3 = SistemaControlHorario.Negocio
+		SccLocalPath3 = SistemaControlHorario.Negocio
+		SccProjectUniqueName4 = SistemaControlHorario\\SistemaControlHorario.csproj
+		SccProjectName4 = SistemaControlHorario
+		SccLocalPath4 = SistemaControlHorario
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D7825EFB-3CC9-46E7-BC4C-2C4C2837349F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7825EFB-3CC9-46E7-BC4C-2C4C2837349F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7825EFB-3CC9-46E7-BC4C-2C4C2837349F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7825EFB-3CC9-46E7-BC4C-2C4C2837349F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A60F3E49-C2BA-46B3-A0B4-6C6C7B28504D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A60F3E49-C2BA-46B3-A0B4-6C6C7B28504D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A60F3E49-C2BA-46B3-A0B4-6C6C7B28504D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A60F3E49-C2BA-46B3-A0B4-6C6C7B28504D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3EDBF31B-7BF1-4A84-A5EE-B154F5AFA443}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3EDBF31B-7BF1-4A84-A5EE-B154F5AFA443}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3EDBF31B-7BF1-4A84-A5EE-B154F5AFA443}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3EDBF31B-7BF1-4A84-A5EE-B154F5AFA443}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3CEFC7DB-9D81-44F6-900F-A2B71F64AB01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CEFC7DB-9D81-44F6-900F-A2B71F64AB01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CEFC7DB-9D81-44F6-900F-A2B71F64AB01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CEFC7DB-9D81-44F6-900F-A2B71F64AB01}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

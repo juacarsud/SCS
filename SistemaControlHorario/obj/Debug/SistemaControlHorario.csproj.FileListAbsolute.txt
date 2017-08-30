@@ -1,0 +1,102 @@
+c:\users\usuario\documents\visual studio 2012\Projects\SistemaControlHorario\SistemaControlHorario\bin\Debug\SistemaControlHorario.exe.config
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\SistemaControlHorario\SistemaControlHorario\obj\Debug\SistemaControlHorario.csprojResolveAssemblyReference.cache
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\SistemaControlHorario\SistemaControlHorario\obj\Debug\SistemaControlHorario.frmDisponibilidadHorario.resources
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\SistemaControlHorario\SistemaControlHorario\obj\Debug\SistemaControlHorario.frmInicioSesion.resources
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\SistemaControlHorario\SistemaControlHorario\obj\Debug\SistemaControlHorario.frmMantenimientoAlumnos.resources
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\SistemaControlHorario\SistemaControlHorario\obj\Debug\SistemaControlHorario.frmMantenimientoCursos.resources
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\SistemaControlHorario\SistemaControlHorario\obj\Debug\SistemaControlHorario.frmMantenimientoDocente.resources
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\SistemaControlHorario\SistemaControlHorario\obj\Debug\SistemaControlHorario.frmMantenimientoInscripcion.resources
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\SistemaControlHorario\SistemaControlHorario\obj\Debug\SistemaControlHorario.frmMantenimietoLaboratorio.resources
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\SistemaControlHorario\SistemaControlHorario\obj\Debug\SistemaControlHorario.frmMenuPrincipal.resources
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\SistemaControlHorario\SistemaControlHorario\obj\Debug\SistemaControlHorario.frmPreguntaReporte.resources
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\SistemaControlHorario\SistemaControlHorario\obj\Debug\SistemaControlHorario.frmRegistroAsistencia.resources
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\SistemaControlHorario\SistemaControlHorario\obj\Debug\SistemaControlHorario.frmRegistroPagos.resources
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\SistemaControlHorario\SistemaControlHorario\obj\Debug\SistemaControlHorario.frmRptListadoCostoCursos.resources
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\SistemaControlHorario\SistemaControlHorario\obj\Debug\SistemaControlHorario.Properties.Resources.resources
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\SistemaControlHorario\SistemaControlHorario\obj\Debug\SistemaControlHorario.csproj.GenerateResource.Cache
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\SistemaControlHorario\SistemaControlHorario\obj\Debug\RdlCompile.cache
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\SistemaControlHorario\SistemaControlHorario\obj\Debug\RdlCompile.compiled
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\SistemaControlHorario\SistemaControlHorario\obj\Debug\SistemaControlHorario.exe
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\SistemaControlHorario\SistemaControlHorario\bin\Debug\SistemaControlHorario.exe
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\SistemaControlHorario\SistemaControlHorario\bin\Debug\SistemaControlHorario.pdb
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\SistemaControlHorario\SistemaControlHorario\bin\Debug\SistemaControlHorario.Datos.dll
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\SistemaControlHorario\SistemaControlHorario\bin\Debug\SistemaControlHorario.Entidades.dll
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\SistemaControlHorario\SistemaControlHorario\bin\Debug\SistemaControlHorario.Negocio.dll
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\SistemaControlHorario\SistemaControlHorario\bin\Debug\SistemaControlHorario.Datos.pdb
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\SistemaControlHorario\SistemaControlHorario\bin\Debug\SistemaControlHorario.Entidades.pdb
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\SistemaControlHorario\SistemaControlHorario\bin\Debug\SistemaControlHorario.Negocio.pdb
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\SistemaControlHorario\SistemaControlHorario\obj\Debug\SistemaControlHorario.pdb
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\SistemaControlHorario\SistemaControlHorario\obj\Debug\SistemaControlHorario.frmModificarContraseña.resources
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\SistemaControlHorario\SistemaControlHorario\obj\Debug\SistemaControlHorario.frmObservacion.resources
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\SistemaControlHorario\SistemaControlHorario\obj\Debug\SistemaControlHorario.frmRegistroHorario.resources
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\SistemaControlHorario\SistemaControlHorario\obj\Debug\SistemaControlHorario.frmModificarAsistencia.resources
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\SistemaControlHorario\SistemaControlHorario\obj\Debug\SistemaControlHorario.frmRptAlumnosInscritos.resources
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\SistemaControlHorario\SistemaControlHorario\obj\Debug\SistemaControlHorario.frmRptEstadoCancelacion.resources
+C:\Users\usuario\documents\visual studio 2012\Projects\SistemaControlHorario\SistemaControlHorario\obj\Debug\SistemaControlHorario.frmInformeHorario.resources
+C:\Users\usuario\documents\visual studio 2012\Projects\SistemaControlHorario\SistemaControlHorario\obj\Debug\SistemaControlHorario.frmMantenimientoSemestre.resources
+D:\CURSOS\VERANO 2015-0\TRABAJO SOFTWARE\PROYECTO FINAL\SistemaControlHorario\SistemaControlHorario\bin\Debug\SistemaControlHorario.exe.config
+D:\CURSOS\VERANO 2015-0\TRABAJO SOFTWARE\PROYECTO FINAL\SistemaControlHorario\SistemaControlHorario\obj\Debug\SistemaControlHorario.exe
+D:\CURSOS\VERANO 2015-0\TRABAJO SOFTWARE\PROYECTO FINAL\SistemaControlHorario\SistemaControlHorario\obj\Debug\SistemaControlHorario.pdb
+D:\CURSOS\VERANO 2015-0\TRABAJO SOFTWARE\PROYECTO FINAL\SistemaControlHorario\SistemaControlHorario\obj\Debug\SistemaControlHorario.csprojResolveAssemblyReference.cache
+D:\CURSOS\VERANO 2015-0\TRABAJO SOFTWARE\PROYECTO FINAL\SistemaControlHorario\SistemaControlHorario\obj\Debug\SistemaControlHorario.frmDisponibilidadHorario.resources
+D:\CURSOS\VERANO 2015-0\TRABAJO SOFTWARE\PROYECTO FINAL\SistemaControlHorario\SistemaControlHorario\obj\Debug\SistemaControlHorario.frmInformeHorario.resources
+D:\CURSOS\VERANO 2015-0\TRABAJO SOFTWARE\PROYECTO FINAL\SistemaControlHorario\SistemaControlHorario\obj\Debug\SistemaControlHorario.frmMantenimientoSemestre.resources
+D:\CURSOS\VERANO 2015-0\TRABAJO SOFTWARE\PROYECTO FINAL\SistemaControlHorario\SistemaControlHorario\obj\Debug\SistemaControlHorario.frmRptEstadoCancelacion.resources
+D:\CURSOS\VERANO 2015-0\TRABAJO SOFTWARE\PROYECTO FINAL\SistemaControlHorario\SistemaControlHorario\obj\Debug\SistemaControlHorario.frmInicioSesion.resources
+D:\CURSOS\VERANO 2015-0\TRABAJO SOFTWARE\PROYECTO FINAL\SistemaControlHorario\SistemaControlHorario\obj\Debug\SistemaControlHorario.frmMantenimientoAlumnos.resources
+D:\CURSOS\VERANO 2015-0\TRABAJO SOFTWARE\PROYECTO FINAL\SistemaControlHorario\SistemaControlHorario\obj\Debug\SistemaControlHorario.frmMantenimientoCursos.resources
+D:\CURSOS\VERANO 2015-0\TRABAJO SOFTWARE\PROYECTO FINAL\SistemaControlHorario\SistemaControlHorario\obj\Debug\SistemaControlHorario.frmMantenimientoDocente.resources
+D:\CURSOS\VERANO 2015-0\TRABAJO SOFTWARE\PROYECTO FINAL\SistemaControlHorario\SistemaControlHorario\obj\Debug\SistemaControlHorario.frmMantenimientoInscripcion.resources
+D:\CURSOS\VERANO 2015-0\TRABAJO SOFTWARE\PROYECTO FINAL\SistemaControlHorario\SistemaControlHorario\obj\Debug\SistemaControlHorario.frmMantenimietoLaboratorio.resources
+D:\CURSOS\VERANO 2015-0\TRABAJO SOFTWARE\PROYECTO FINAL\SistemaControlHorario\SistemaControlHorario\obj\Debug\SistemaControlHorario.frmMenuPrincipal.resources
+D:\CURSOS\VERANO 2015-0\TRABAJO SOFTWARE\PROYECTO FINAL\SistemaControlHorario\SistemaControlHorario\obj\Debug\SistemaControlHorario.frmModificarAsistencia.resources
+D:\CURSOS\VERANO 2015-0\TRABAJO SOFTWARE\PROYECTO FINAL\SistemaControlHorario\SistemaControlHorario\obj\Debug\SistemaControlHorario.frmModificarContraseña.resources
+D:\CURSOS\VERANO 2015-0\TRABAJO SOFTWARE\PROYECTO FINAL\SistemaControlHorario\SistemaControlHorario\obj\Debug\SistemaControlHorario.frmObservacion.resources
+D:\CURSOS\VERANO 2015-0\TRABAJO SOFTWARE\PROYECTO FINAL\SistemaControlHorario\SistemaControlHorario\obj\Debug\SistemaControlHorario.frmPreguntaReporte.resources
+D:\CURSOS\VERANO 2015-0\TRABAJO SOFTWARE\PROYECTO FINAL\SistemaControlHorario\SistemaControlHorario\obj\Debug\SistemaControlHorario.frmRegistroAsistencia.resources
+D:\CURSOS\VERANO 2015-0\TRABAJO SOFTWARE\PROYECTO FINAL\SistemaControlHorario\SistemaControlHorario\obj\Debug\SistemaControlHorario.frmRegistroHorario.resources
+D:\CURSOS\VERANO 2015-0\TRABAJO SOFTWARE\PROYECTO FINAL\SistemaControlHorario\SistemaControlHorario\obj\Debug\SistemaControlHorario.frmRegistroPagos.resources
+D:\CURSOS\VERANO 2015-0\TRABAJO SOFTWARE\PROYECTO FINAL\SistemaControlHorario\SistemaControlHorario\obj\Debug\SistemaControlHorario.frmRptAlumnosInscritos.resources
+D:\CURSOS\VERANO 2015-0\TRABAJO SOFTWARE\PROYECTO FINAL\SistemaControlHorario\SistemaControlHorario\obj\Debug\SistemaControlHorario.frmRptListadoCostoCursos.resources
+D:\CURSOS\VERANO 2015-0\TRABAJO SOFTWARE\PROYECTO FINAL\SistemaControlHorario\SistemaControlHorario\obj\Debug\SistemaControlHorario.Properties.Resources.resources
+D:\CURSOS\VERANO 2015-0\TRABAJO SOFTWARE\PROYECTO FINAL\SistemaControlHorario\SistemaControlHorario\obj\Debug\SistemaControlHorario.csproj.GenerateResource.Cache
+D:\CURSOS\VERANO 2015-0\TRABAJO SOFTWARE\PROYECTO FINAL\SistemaControlHorario\SistemaControlHorario\obj\Debug\RdlCompile.cache
+D:\CURSOS\VERANO 2015-0\TRABAJO SOFTWARE\PROYECTO FINAL\SistemaControlHorario\SistemaControlHorario\obj\Debug\RdlCompile.compiled
+D:\SistemaControlHorario\SistemaControlHorario\bin\Debug\SistemaControlHorario.exe.config
+D:\SistemaControlHorario\SistemaControlHorario\bin\Debug\SistemaControlHorario.exe
+D:\SistemaControlHorario\SistemaControlHorario\bin\Debug\SistemaControlHorario.pdb
+D:\SistemaControlHorario\SistemaControlHorario\bin\Debug\DevComponents.DotNetBar2.dll
+D:\SistemaControlHorario\SistemaControlHorario\bin\Debug\SistemaControlHorario.Datos.dll
+D:\SistemaControlHorario\SistemaControlHorario\bin\Debug\SistemaControlHorario.Entidades.dll
+D:\SistemaControlHorario\SistemaControlHorario\bin\Debug\SistemaControlHorario.Negocio.dll
+D:\SistemaControlHorario\SistemaControlHorario\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\SistemaControlHorario\SistemaControlHorario\bin\Debug\SistemaControlHorario.Datos.pdb
+D:\SistemaControlHorario\SistemaControlHorario\bin\Debug\SistemaControlHorario.Entidades.pdb
+D:\SistemaControlHorario\SistemaControlHorario\bin\Debug\SistemaControlHorario.Negocio.pdb
+D:\SistemaControlHorario\SistemaControlHorario\bin\Debug\DevComponents.DotNetBar2.xml
+D:\SistemaControlHorario\SistemaControlHorario\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+D:\SistemaControlHorario\SistemaControlHorario\obj\Debug\SistemaControlHorario.csprojResolveAssemblyReference.cache
+D:\SistemaControlHorario\SistemaControlHorario\obj\Debug\SistemaControlHorario.frmDisponibilidadHorario.resources
+D:\SistemaControlHorario\SistemaControlHorario\obj\Debug\SistemaControlHorario.frmInformeHorario.resources
+D:\SistemaControlHorario\SistemaControlHorario\obj\Debug\SistemaControlHorario.frmMantenimientoSemestre.resources
+D:\SistemaControlHorario\SistemaControlHorario\obj\Debug\SistemaControlHorario.frmRptEstadoCancelacion.resources
+D:\SistemaControlHorario\SistemaControlHorario\obj\Debug\SistemaControlHorario.frmInicioSesion.resources
+D:\SistemaControlHorario\SistemaControlHorario\obj\Debug\SistemaControlHorario.frmMantenimientoAlumnos.resources
+D:\SistemaControlHorario\SistemaControlHorario\obj\Debug\SistemaControlHorario.frmMantenimientoCursos.resources
+D:\SistemaControlHorario\SistemaControlHorario\obj\Debug\SistemaControlHorario.frmMantenimientoDocente.resources
+D:\SistemaControlHorario\SistemaControlHorario\obj\Debug\SistemaControlHorario.frmMantenimientoInscripcion.resources
+D:\SistemaControlHorario\SistemaControlHorario\obj\Debug\SistemaControlHorario.frmMantenimietoLaboratorio.resources
+D:\SistemaControlHorario\SistemaControlHorario\obj\Debug\SistemaControlHorario.frmMenuPrincipal.resources
+D:\SistemaControlHorario\SistemaControlHorario\obj\Debug\SistemaControlHorario.frmModificarAsistencia.resources
+D:\SistemaControlHorario\SistemaControlHorario\obj\Debug\SistemaControlHorario.frmModificarContraseña.resources
+D:\SistemaControlHorario\SistemaControlHorario\obj\Debug\SistemaControlHorario.frmObservacion.resources
+D:\SistemaControlHorario\SistemaControlHorario\obj\Debug\SistemaControlHorario.frmPreguntaReporte.resources
+D:\SistemaControlHorario\SistemaControlHorario\obj\Debug\SistemaControlHorario.frmRegistroAsistencia.resources
+D:\SistemaControlHorario\SistemaControlHorario\obj\Debug\SistemaControlHorario.frmRegistroHorario.resources
+D:\SistemaControlHorario\SistemaControlHorario\obj\Debug\SistemaControlHorario.frmRegistroPagos.resources
+D:\SistemaControlHorario\SistemaControlHorario\obj\Debug\SistemaControlHorario.frmRptAlumnosInscritos.resources
+D:\SistemaControlHorario\SistemaControlHorario\obj\Debug\SistemaControlHorario.frmRptListadoCostoCursos.resources
+D:\SistemaControlHorario\SistemaControlHorario\obj\Debug\SistemaControlHorario.Properties.Resources.resources
+D:\SistemaControlHorario\SistemaControlHorario\obj\Debug\SistemaControlHorario.csproj.GenerateResource.Cache
+D:\SistemaControlHorario\SistemaControlHorario\obj\Debug\SistemaControlHorario.exe
+D:\SistemaControlHorario\SistemaControlHorario\obj\Debug\SistemaControlHorario.pdb
